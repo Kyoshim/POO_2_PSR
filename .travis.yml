@@ -5,7 +5,7 @@ php:
   - 5.6
   - hhvm
 
-before sript:
+before_sript:
   - composer install --prefer-dist --dev
 
 script:
